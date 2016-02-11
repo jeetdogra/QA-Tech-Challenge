@@ -8,3 +8,5 @@ THEN the application:
   1. check if its valid and
   2. if valid, parses and evaluates it and
   3. prints the outcome to console
+  
+Note: JDK version 1.8.0_45 was used to run the application
